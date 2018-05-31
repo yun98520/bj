@@ -1,0 +1,170 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-color:#ECF9F1 ;
+}
+/* banner */
+.banner{
+  height: 190px;
+	background-size: 100% 100%;
+	background:url('../images/旅游开放日_banner.png') center no-repeat;
+}
+.nav{
+	height: 38px;
+	background-color: #4CACF8;
+}
+.nav1 .a2{
+	color: #FFFFFF;
+	font-size: 14px;
+	line-height: 38px;
+}
+.content{
+	box-shadow: ;
+}
+/* content1 */
+.content1{
+	height: 83px;
+	border-bottom: 2px solid #DFDEDE;
+	background-color: #F6F6F6;
+}
+.content1 .h21{
+	padding-top: 15px;
+}
+.content1 h2{
+	color: #333333;
+	font-size: 14px;
+	line-height: 30px;
+	padding-left: 25px;
+}
+/* content2 */
+.content2{
+	height: 586px;
+  background-color: #ffffff;
+}
+.content2 p{
+	float: left;
+	margin-top: 18px;
+	margin-right: 5px;
+}
+.content2 .p1{
+width: 203px;
+height: 31px;
+color: #B9BFC5;
+font-size: 16px;
+line-height: 31px;
+text-align: center;
+margin-left: 14px;
+border: 1px solid #B9BFC5;
+}
+.content2 span{
+	color: #FF0000;
+}
+.content2 .p2{
+	width: 238px;
+	height: 31px;
+	color: #37A5FA;
+	font-size: 16px;
+	line-height: 31px;
+	text-align: center;
+	border: 1px solid #FF9C71;
+}
+.content2 .p3{
+	width: 238px;
+	height: 31px;
+	color: #37A5FA;
+	font-size: 16px;
+	line-height: 31px;
+	text-align: center;
+	border: 1px solid #38A5FB;
+}
+.content2 .p4{
+	width: 230px;
+	height: 31px;
+	color: #37A5FA;
+	font-size: 16px;
+	line-height: 31px;
+	text-align: center;
+	margin-right: 0;
+	border: 1px solid #38A5FB;
+}
+ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+	.box {
+		width: 930px;
+		margin: 80px auto;
+	}
+	.tabs {
+		height: 34px;
+	}
+	.tabs li {
+		float: left;
+		width: 120px;
+		color: #333333;
+		font-size: 14px;
+		text-align: center;
+		height: 34px;
+		line-height: 34px;
+		border: 1px solid #DBDBDB;
+		margin-right: -1px;
+		background: #F8F6F4;
+		border-radius: 3px 3px 0 0;
+		cursor: pointer;
+	}
+	.tabs .active {
+		background: #fff;
+		color: #4BABF7;
+		font-size: 14px;
+		border-bottom: none;
+		height: 34px;
+	}
+	.contents {
+		border: 1px solid #DBDBDB;
+		margin-top: -1px;
+		padding: 40px;
+	}
+	.contents div {
+		display: none;
+	}
+	.contents form .select select{
+		height: 23px;
+		width: 120px;
+	}
+	.contents .show p{
+		color: #656565;
+    font-size: 14px;
+	}
+	.contents .show .ps{
+		color: #656565;
+    font-size: 14px;
+		float: left;
+	}
+	.contents .select when{
+		color: #656565;
+    font-size: 14px;
+	}
+	.contents option{
+		width: 120px;
+		height: 23px;
+	}
+	.contents .show .ps span{
+		color: #000000;
+	}
+	.contents .show {
+		display: inline-block;
+	}
+	/* footer */
+.footer{
+	background-color: #FFFFFF;
+	border-top: 1px solid #CBD2CD;
+
+}
+.footer p{
+	color: #656565;
+	font-size: 12px;
+	text-align: center;
+	padding-top: 56px;
+	padding-bottom: 17px;
+}

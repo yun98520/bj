@@ -1,0 +1,199 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-color:#ECF9F1 ;
+}
+/* banner */
+.banner{
+  height: 190px;
+	background-size: 100% 100%;
+	background:url('../images/旅游开放日_banner.png') center no-repeat;
+}
+.nav{
+	height: 38px;
+	background-color: #4CACF8;
+}
+.nav1 .a2{
+	float: left;
+	color: #FFFFFF;
+	font-size: 12px;
+	line-height: 38px;
+}
+.nav1 .a1 img{
+	float: right;
+	margin-top: 7px;
+}
+.content{
+	box-shadow: ;
+}
+/* content1 */
+.content1{
+	height: 83px;
+	border-bottom: 2px solid #DFDEDE;
+	background-color: #F6F6F6;
+}
+.content1 .left a{
+	float: left;
+	color: #0D89E9;
+	font-size: 14px;
+	font-weight: bold;
+	padding-left: 38px;
+	line-height: 83px;
+	background: url('../images/旅游开放日_banner.gif') 16px center no-repeat;
+}
+.content1 ul{
+	width: 830px;
+	float: right;
+	margin-top:18px ;
+
+}
+.content1 li a{
+	float: left;
+	color: #333333;
+	font-size: 14px;
+  margin-right: 20px;
+  line-height: 22px;
+}
+.content1 .li1 a{
+	margin-right: 0;
+}
+/* content2 */
+.content2{
+	padding-top: 26px;
+	background-color: #FFFFFF;
+}
+.content2 .ul1{
+	height: 258px;
+	border-bottom: 1px dotted #F2F2F2;
+}
+.content2 li{
+	width: 454px;
+	padding-right: 31px;
+	background: url('../images/旅游开放日_竖线.png') right center no-repeat;
+}
+.content2 img{
+	float: left;
+	margin-left: 26px;
+}
+.content2 .right{
+	float: left;
+	margin-left: 30px;
+	width: 208px;
+}
+.content2  li .right h3{
+   color: #0D88E9;
+   font-size: 14px;
+}
+.content2 li .right p{
+	color: #333333;
+	line-height: 35px;
+	font-size: 12px;
+}
+.content2 li .right .button1{
+	height: 34px;
+	width: 87px;
+	line-height: 34px;
+	font-size: 14px;
+	color: #FFFFFF;
+	border-radius: 4px;
+	border: #B6B6B6;
+	background-color: #FA8110;
+}
+.content2 li .right .button2{
+	height: 34px;
+	width: 87px;
+	border: #B2B2B2;
+	line-height: 34px;
+	font-size: 14px;
+	color: #FFFFFF;
+	margin-left: 10px;
+	border-radius: 4px;
+	background-color: #B6B6B6;
+}
+.content2 li .right .button3{
+	width: 182px;
+	height: 32px;
+	border: #21B504;
+	line-height: 34px;
+	font-size: 14px;
+	color: #FFFFFF;
+	border-radius: 4px;
+	margin-top: 5px;
+	background-color: #60B410;
+}
+.content2 .bottom{
+	margin-left: 26px;
+	line-height: 25px;
+}
+.content2 .bottom p{
+	color: #656565;
+	font-size: 12px;
+}
+.content2 .bottom .p1{
+	color: #FE0000;
+	font-size: 12px;
+}
+.content2 .bottom  a p{
+	color: #37A5FA;
+	font-size: 12px;
+}
+.content2 .li1{
+	padding-right: 21px;
+	background: none;
+}
+.content2 .li1 .right p{
+	line-height: 38px;
+}
+.content2 .li1 .right .button3{
+	margin-top: 32px;
+}
+.content2 .ul2{
+	height: 258px;
+	padding-top: 20px;
+	border-bottom: 1px dotted #F2F2F2;
+}
+.content2 .ul2 .li1 .button3{
+	margin-top: 5px;
+	background-color: #299DF1;
+}
+.content .fenye{
+	padding-top:32px ;
+	padding-bottom: 21px;
+	text-align: center;
+	background-color: #FFFFFF;
+}
+.content .fenye li{
+	margin-right: 11px;
+	display: inline-block;
+}
+.content .fenye li a{
+	color: #000000;
+	font-size:12px ;
+	padding: 6px 11px;
+	text-align: center;
+	border: 1px solid #D7D7D7;
+}
+.content .fenye li .a1{
+	font-size: 12px;
+	padding: 6px 17px 7px 15px;
+}
+.content .fenye .li3 a{
+	color: #FFFFFF;
+	background-color: #8AB923;
+}
+.content .fenye li a:hover{
+	color: #FFFFFF;
+	background-color: #8AB923;
+}
+.footer{
+	background-color: #FFFFFF;
+	border-top: 1px solid #CBD2CD;
+
+}
+.footer p{
+	color: #656565;
+	font-size: 12px;
+	text-align: center;
+	padding-top: 56px;
+	padding-bottom: 17px;
+}
